@@ -11,6 +11,12 @@ import javax.sound.sampled.LineUnavailableException;
 import javax.sound.sampled.SourceDataLine;
 import javax.sound.sampled.TargetDataLine;
 
+//JEBUTNY KOMENTARZ
+//
+//
+//
+
+
 public class AudioRecorder {
 
     public static void main(String[] args) {
